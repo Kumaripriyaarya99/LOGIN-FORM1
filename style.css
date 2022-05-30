@@ -1,0 +1,32 @@
+body{
+background-image:url(http://cdn.home-designing.com/wp-content/uploads/2019/03/industrial-home-office.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+.form{
+position: relative;
+text-align: center;
+z-index: 1;
+padding:10 ;
+margin: auto;
+margin-top: 120;
+text-align: center;
+max-width: 310;
+background: white;
+}
+.form input{
+outline: 1;
+width: 90%;
+padding: 5%;
+margin: 7%;
+box-sizing: border-box;
+}
+button:hover{
+    background-color:rgb(47, 153, 47) ;
+}
+button{
+height: 30px; 
+width: 90px;
+cursor: pointer; 
+}
